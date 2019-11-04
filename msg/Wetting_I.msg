@@ -1,2 +1,15 @@
-int8 doserMotorRealSpeed
-bool doserMotorStatus
+bool breaker
+int8 breakerPWM
+bool doser
+int8 doserSpeed
+int8 doserP
+int8 doserI
+int8 doserD
+bool agitator
+bool agitatorPWM
+bool water
+int8 waterSpeed
+bool mixer
+int8 mixerSpeed
+bool reservoir
+int8 reservoirSpeed
